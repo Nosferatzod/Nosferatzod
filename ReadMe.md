@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Técnico informatica para internet<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
+🔭 Técnico informatica para internet<br>📈 Técnica em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
 
 
 ## 🌐 Socials:
