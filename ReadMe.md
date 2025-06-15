@@ -1,7 +1,11 @@
 # 💫 About Me:
 🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
 
-![Anime coding](https://media.tenor.com/images/9d0a4f27a5277a35a60ce13553b8dabc/tenor.gif)
+<div align="center">
+  <a href="https://tenor.com/pt-BR/view/zxc-sosal-gif-9805209686251386213">
+    <img src="https://media.tenor.com/images/9d0a4f27a5277a35a60ce13553b8dabc/tenor.gif" alt="Anime coding" width="350" />
+  </a>
+</div>
 
 
 ## 🌐 Socials:
