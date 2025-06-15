@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
 
-![Cute anime coding]([https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzltdXpqMndnenhzYW11NnJkam4zZzg1dWQ3YTk2bHlrdWVoeGV2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9DyIEwoOhAfZjIpSvS/giphy.gif))
+![Dark anime coding](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzltdXpqMndnenhzYW11NnJkam4zZzg1dWQ3YTk2bHlrdWVoeGV2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9DyIEwoOhAfZjIpSvS/giphy.gif)
+
 
 
 ## 🌐 Socials:
