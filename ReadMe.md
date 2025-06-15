@@ -1,9 +1,8 @@
 # 💫 About Me:
 🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
 
-<div align="center">
-  <img src="https://gifdb.com/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif" alt="Anime coding at desktop" width="350"/>
-</div>
+<img src="https://media.tenor.com/view/anime-typing-gif-14680553.gif" alt="Girl typing with glasses" width="350"/>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/loner_ghost) 
