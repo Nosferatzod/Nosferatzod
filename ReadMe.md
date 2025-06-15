@@ -2,7 +2,7 @@
 🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
 
 <div align="center">
-  <img src="https://media.gifdb.com/chihiro-anime-typing-rjbh4hx8zdyi9iej.gif" alt="Chihiro typing" width="350"/>
+  <img src="https://media.gifdb.com/funny-anime-yuki-nagato-typing-fast-u4xtko7onxhslyta.gif" alt="Yuki typing fast" width="350"/>
 </div>
 
 ## 🌐 Socials:
