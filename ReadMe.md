@@ -1,7 +1,9 @@
 # 💫 About Me:
 🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" alt="Anime character coding">
+</div>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/loner_ghost) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nosferat_zod) 
 
