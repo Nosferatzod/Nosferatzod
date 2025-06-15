@@ -2,8 +2,7 @@
 🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
 
 <div align="center">
-  <img src="https://media.tenor.com/images/your_gif_url_here.gif" alt="Anime coding" width="350"/>
-
+  <img src="https://media.tenor.com/view/coding-anime-gif-24565564.gif" alt="Anime coding Hello World" width="350"/>
 </div>
 
 ## 🌐 Socials:
