@@ -1,8 +1,7 @@
 # 💫 About Me:
 🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
 
-![Dark anime coding](https://media.tenor.com/images/fb8a8ccf54f9b63b57864f8c118cf3b0/tenor.gif)
-
+![Cute anime coding](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
 
 
 ## 🌐 Socials:
