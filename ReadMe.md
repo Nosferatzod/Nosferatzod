@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
 
-![GIF Kawaii]([[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5xZ2Y4a2F6c3FqY2JtZ3V5dWJ0b2N6dG5oYzVqZ3JtY3JmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif](https://media.tenor.com/view/anime-typing-gif-14680553.gif)](https://tenor.com/pt-BR/view/zxc-sosal-gif-9805209686251386213))
+![GIF Kawaii](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5xZ2Y4a2F6c3FqY2JtZ3V5dWJ0b2N6dG5oYzVqZ3JtY3JmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif](https://media.tenor.com/view/anime-typing-gif-14680553.gif)](https://tenor.com/pt-BR/view/zxc-sosal-gif-9805209686251386213)
 
 
 
