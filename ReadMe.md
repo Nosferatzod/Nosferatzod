@@ -3,7 +3,7 @@
 
 
   <a href="https://giphy.com/gifs/sRFwmCsH06R2WKOHpI">
-    <img src="./meu-gif.gif" alt="Anime coding" width="350" />
+    <img src="./meu-gif.gif" alt="Anime coding" width="450" />
   </a>
 
 
