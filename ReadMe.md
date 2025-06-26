@@ -1,11 +1,11 @@
 # 💫 About Me:
 🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
 
-<div align="center">
+
   <a href="https://giphy.com/gifs/sRFwmCsH06R2WKOHpI">
     <img src="./meu-gif.gif" alt="Anime coding" width="350" />
   </a>
-</div>
+
 
 
 
