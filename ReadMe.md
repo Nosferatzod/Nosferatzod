@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente Trabalhando na empresa Big Dim
+🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>
 
 
   <a href="https://giphy.com/gifs/sRFwmCsH06R2WKOHpI">
