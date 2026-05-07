@@ -9,7 +9,7 @@
 python · html · css · react · vue · react-native · MySQL · JavaScript
 
 
-  <a href="[[https://giphy.com/gifs/sRFwmCsH06R2WKOHpI](https://64.media.tumblr.com/ae63058b574c9f2b166f8b20a4db974d/89093734692ff855-43/s1280x1920/3b981613c640fd28f6a8f0c9754e20bbe1621e4b.gif)](https://64.media.tumblr.com/7d6e669b1d24f0d11105aac41f111246/84ca173817eacab3-a9/s1280x1920/a8e18a3a40f76289e998d99e9aa69489693da847.gif)">
+  <a href="https://64.media.tumblr.com/7d6e669b1d24f0d11105aac41f111246/84ca173817eacab3-a9/s1280x1920/a8e18a3a40f76289e998d99e9aa69489693da847.gif">
     <img src="/meu-gif.gif" alt="Anime coding" width="450" />
   </a>
 
