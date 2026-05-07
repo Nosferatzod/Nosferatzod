@@ -2,7 +2,7 @@
 🔭 Técnico informatica para internet<br>📈 Técnico em Desenvolvimento de Sistemas<br>🕵️‍♀️ Estou procurando aprender mais sobre área de TI<br>
 
 
-  <a href="https://giphy.com/gifs/sRFwmCsH06R2WKOHpI">
+  <a href="[https://giphy.com/gifs/sRFwmCsH06R2WKOHpI](https://64.media.tumblr.com/ae63058b574c9f2b166f8b20a4db974d/89093734692ff855-43/s1280x1920/3b981613c640fd28f6a8f0c9754e20bbe1621e4b.gif)">
     <img src="/meu-gif.gif" alt="Anime coding" width="450" />
   </a>
 
