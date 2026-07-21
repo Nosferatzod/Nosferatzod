@@ -10,3 +10,7 @@ python · html · css · react · vue · react-native · MySQL · JavaScript
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Nosferatzod&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <img align="center" width="600" src="https://media.tenor.com/_dEocvDeXi4AAAAi/tsukihime-anime.gif"/>
+</div>
